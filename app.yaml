@@ -3,7 +3,7 @@ environments:
   default:
     destination:
       namespace: kubeflow
-      server: https://52.39.244.88:6443
+      server: https://35.160.10.46:6443
     k8sVersion: v1.8.2
     path: default
 kind: ksonnet.io/app
